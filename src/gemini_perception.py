@@ -39,7 +39,7 @@ class GeminiPerception:
                 question
             ],
             config = types.GenerateContentConfig(
-      temperature=0.05,
+      temperature=0.1,
       thinking_config=types.ThinkingConfig(thinking_budget=-1)
   )
         )
