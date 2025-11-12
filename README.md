@@ -8,7 +8,7 @@ The core of this repository is not just a single working implementation, but a c
 
 ---
 
-## 🏛️ System Architecture
+## System Architecture
 
 The final, successful architecture implements a modular, multi-agent AI system that separates distinct cognitive functions:
 
@@ -26,7 +26,7 @@ The final, successful architecture implements a modular, multi-agent AI system t
 
 ---
 
-## 🔬 Key Research Findings & Demonstrated Skills
+## Key Research Findings & Demonstrated Skills
 
 This project serves as a practical demonstration of core concepts in AI and robotics:
 
@@ -43,7 +43,7 @@ This project serves as a practical demonstration of core concepts in AI and robo
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -95,7 +95,7 @@ To run the primary, successful VLM-based system:
 
 ---
 
-## 🔮 Future Work
+## Future Work
 
 This project lays the foundation for several exciting research directions:
 
